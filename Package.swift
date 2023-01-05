@@ -5,8 +5,8 @@ import PackageDescription
 
 let sdkName = "SoftphoneSwiftPackage-saas"
 let sdkVersion = Version("1.0.184406")
-let facadeVersion = "1.1.1"
-let facadeChecksum = "efd133eb529b8bb5f8caf647ddbb22e5efb14dd58c48b9f02003ec38070d6ba7"
+let facadeVersion = "1.1.2"
+let facadeChecksum = "0192d01138720a81e4f354a7155ab952c51fde7fdee9e7860bbc60b1b531d0f0"
 
 let package = Package(
     name: "deliveryhero-softphonefacade",
